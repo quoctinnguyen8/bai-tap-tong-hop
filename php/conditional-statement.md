@@ -12,14 +12,13 @@
     ```
 
     Ví dụ: với URL là `/index.php?year=2007`
-    Để nhận được giá trị 2007 từ `year` ta sử dụng cú pháp
+    Để nhận được giá trị 2007 từ `year` ta sử dụng cú pháp:
 
     ```php
     $y = $_GET['year'];
     ```
 
-    **Lưu ý:** nếu URL không có 'year' dòng code trên sẽ bị lỗi
-    Để đảm bảo code chạy đúng trong mọi trường hợp, sử **Null Coalescing Operator** (toán tử gộp null) để cung cấp giá trị mặc định trong trường hợp không có giá trị `year`.
+    **Lưu ý:** nếu URL không có `year` dòng code trên sẽ bị lỗi. Để đảm bảo code chạy đúng trong mọi trường hợp, ta sử dụng **Null Coalescing Operator** (toán tử gộp null) để cung cấp giá trị mặc định trong trường hợp không có `year`.
     ```php
     // y = 1900 nếu URL không có param 'year'
     $y = $_GET['year'] ?? 1900;
@@ -44,3 +43,4 @@ Viết chương trình kiểm tra tháng, năm nhận được có bao nhiêu ng
 - **Tên file:** baitap2.php
 - **URL truy cập:** `/baitap2.php?nam=2004&thang=2`
 - **Kết quả:** Tháng 2 năm 2004 có 29 ngày
+
