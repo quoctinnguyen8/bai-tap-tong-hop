@@ -42,7 +42,7 @@ Link đây: https://github.com/settings/security
 
 Sau khi hoàn thành các bước trên, truy cập link https://github.com/settings/education/benefits để đăng ký gói Student.
 
-Thông thường GitHub sẽ tự nhận dạng trường dựa vào email đã thêm ở bước 2.3
+Thông thường GitHub sẽ tự nhận dạng tên trường dựa vào email đã thêm ở bước 2.3
 
 Ở bước chọn giấy tờ, chọn giá trị đầu tiên (School ID), sau đó upload **ảnh chụp mặt trước** của thẻ sinh viên.
 
