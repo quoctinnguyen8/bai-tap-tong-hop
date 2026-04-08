@@ -30,7 +30,7 @@ Link đây: https://github.com/settings/billing/payment_information
 
 Link đây: https://github.com/settings/emails
 
-2.4. Tải ứng dụng **Google Authenticator** về điện thoại và đăng nhập bằng tài khoản Google. Ứng dụng có biểu tượng là một dấu sao (*) nhiều màu.
+2.4. Tải ứng dụng **Google Authenticator** về điện thoại và đăng nhập bằng tài khoản Google. Ứng dụng có biểu tượng là một dấu sao (*) nhiều màu. Có thể dùng ứng dụng authen khác như *Microsoft Authenticatior* cũng được
 
 Vào phần **Password and authentication**, thêm xác thực 2 lớp (Two-factor authentication).
 
@@ -42,7 +42,7 @@ Link đây: https://github.com/settings/security
 
 Sau khi hoàn thành các bước trên, truy cập link https://github.com/settings/education/benefits để đăng ký gói Student.
 
-Thông thường GitHub sẽ tự nhận dạng tên trường dựa vào email đã thêm ở bước 2.3
+Thông thường GitHub sẽ tự nhận dạng tên trường CĐ/ĐH dựa vào email đã thêm ở bước 2.3
 
 Ở bước chọn giấy tờ, chọn giá trị đầu tiên (School ID), sau đó upload **ảnh chụp mặt trước** của thẻ sinh viên.
 
@@ -52,6 +52,6 @@ Chờ khoảng 1 phút rồi refresh trang kiểm tra kết quả. Nếu xanh (a
 
 Cần ở gần vị trí của trường đại học (bán kính ~10km) khi đăng ký gói Student.
 
-Một số trường hợp Github không nhận ảnh chụp sẵn, cần chụp trực tiếp qua camera của thiết bị (có thể dùng điện thoại ở chế độ máy tính để đăng ký).
+Một số trường hợp Github không nhận ảnh chụp sẵn, thử chụp lại ảnh khác hoặc chụp trực tiếp qua camera của thiết bị (có thể dùng điện thoại ở chế độ máy tính để đăng ký).
 
 Một số trường hợp Github không cho đăng ký gói Student vì tài khoản vừa tạo, cần chờ thêm một vài ngày và thử lại.
